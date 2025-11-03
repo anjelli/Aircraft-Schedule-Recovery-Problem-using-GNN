@@ -1,0 +1,10 @@
+pandas>=2.1
+numpy>=1.26
+torch>=2.2
+torch-geometric>=2.5
+scikit-learn>=1.4
+matplotlib>=3.8
+cplex>=22.1
+python-dotenv>=1.0
+openpyxl>=3.1
+pulp>=2.7

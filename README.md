@@ -169,6 +169,12 @@ Unnecessary reassignments were avoided, maintaining global schedule stability.
 
 <img width="4200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e998266e-1e19-49c1-8067-2abca627690c" />
 
+<img width="3000" height="1500" alt="image" src="https://github.com/user-attachments/assets/c2230206-46a5-4586-b4f9-f866a0248408" />
+
+<img width="2400" height="3000" alt="image" src="https://github.com/user-attachments/assets/ca4921db-0229-4edd-8341-c7fed7fe4485" />
+
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/c5ea5f6b-2d57-40d9-b50a-54e719f9b6f7" />
+
 ## Usage instructions
 ```python
 

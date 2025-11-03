@@ -48,7 +48,7 @@ This project integrates machine learning and optimization to mitigate such casca
 
 ├── cplex_optimizer.py # MILP model for flight reassignment
 
-├── visualize_results.py # (optional) Visualization utilities
+├── results.py # (optional) Visualization utilities
 
 └── utils/ # Supporting functions
 

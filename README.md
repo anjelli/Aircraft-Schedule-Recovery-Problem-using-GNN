@@ -26,8 +26,8 @@ This project integrates machine learning and optimization to mitigate such casca
 
 ## 3. Repository Structuredata/
 
-data/
----
+###data/
+
 ├── flights_canonical.csv # Flight schedule data
 
 ├── aircraft_canonical.csv # Aircraft metadata
@@ -36,7 +36,7 @@ data/
 
 ├── gnn_model_dataset.pth # Trained HeteroGNN model checkpoint
 
-src/
+###src/
 
 ├── graph_builder.py # Heterogeneous graph construction
 

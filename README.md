@@ -28,19 +28,27 @@ This project integrates machine learning and optimization to mitigate such casca
 
 data/
 ├── flights_canonical.csv # Flight schedule data
+
 ├── aircraft_canonical.csv # Aircraft metadata
-├── disruptions_synthetic.csv # Optional disruption scenarios
+
+├── disruptions_synthetic.csv # Disruption scenarios
+
 ├── gnn_model_dataset.pth # Trained HeteroGNN model checkpoint
+
 src/
 ├── graph_builder.py # Heterogeneous graph construction
+
 ├── model.py # HeteroGNN architecture (PyTorch Geometric)
+
 ├── train.py # GNN training and validation
+
 ├── inference.py # Key aircraft inference script
+
 ├── cplex_optimizer.py # MILP model for flight reassignment
+
 ├── visualize_results.py # (optional) Visualization utilities
+
 └── utils/ # Supporting functions
-
-
 
 ---
 

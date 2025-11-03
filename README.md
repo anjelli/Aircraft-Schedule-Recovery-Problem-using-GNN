@@ -135,7 +135,7 @@ Total flights: 171
 Affected flights (to reassign): 8
 Fixed flights (kept as-is): 163
 Affected counts per key tail: {'VTAIH': 2, 'VTBBL': 2, 'VTBBP': 2, 'VTICG': 2}
-
+Schedule: [Google Sheet](https://docs.google.com/spreadsheets/d/1yMD7l4oskI0d8e_u2W4zq-zSbvu1V5dJ4vAMUYheTsE/edit?gid=110869346#gid=110869346)
 Solver status: Optimal
 
 Affected flights reassigned:
@@ -147,7 +147,6 @@ ZZ0549 -> VTBBP
 ZZ0550 -> VTICG
 ZZ0516 -> VTBBP
 ZZ0515 -> VTBBP
-
 
 ---
 

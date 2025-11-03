@@ -194,3 +194,6 @@ python -m src.inference
 # 5. Run MILP optimization
 python -m src.cplex_optimizer
 
+# 6. Results Visualisation
+python -m src.results
+
